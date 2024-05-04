@@ -1,0 +1,10 @@
+
+// RENDER webservice
+GET https://jiguwebservicecse341.onrender.com/users
+
+GET https://jiguwebservicecse341.onrender.com
+
+// LOCAL HOST 
+
+GET http://localhost:3000/
+
