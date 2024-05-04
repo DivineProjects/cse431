@@ -4,6 +4,6 @@
 node_modules
 
 # environment stored securely and not published to github
-.nev
-
+.env
+/.env
 
