@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/DivineProjects/cse431#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0"
   }
 }
